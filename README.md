@@ -1,9 +1,9 @@
 # Generate-Color-On-Click
 <h1 align="center">Hi 👋, I'm Ayman El Aouad</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right" width="400" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<img align="center" width="400" height="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymsep&label=Profile%20views&color=0e75b6&style=flat" alt="aymsep" /> </p>
+<p align="left" style="margin-top:30px;"> <img src="https://komarev.com/ghpvc/?username=aymsep&label=Profile%20views&color=0e75b6&style=flat" alt="aymsep" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymsep" alt="aymsep" /></a> </p>
 
